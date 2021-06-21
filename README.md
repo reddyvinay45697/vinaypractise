@@ -12,3 +12,6 @@ the changes are made after push from local repository \
 
 
 the command is pulled from remote repo once
+
+
+to test the fetch command 
